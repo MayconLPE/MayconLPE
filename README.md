@@ -1,4 +1,4 @@
-<h1> 👉 Hi, I'm Maycon 👨🏽‍💻💻</h1>
+<h1> 👉 Hi, I'm Maycon 👨🏽‍💻</h1>
 <h2> ☕ I am currently learning Java.</h2>
 <div>
   <a href="https://github.com/MayconL27">
