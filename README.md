@@ -31,8 +31,8 @@
   <a href="https://www.linkedin.com/in/maycon-leandro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-<details align='center'>
-<h4 align='center'>📚 Cursos</h4>
+<details>
+<h4>📚 Cursos</h4>
   <h5>🎓 Ciência da Computação 📆 2014 - 2018</h5>
   <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
   <p><a href="https://certificates.digitalinnovation.one/1C661618">📗 Introdução ao framework Spring Boot - Digital Innovation One</a></p>
