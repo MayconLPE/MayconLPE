@@ -1,14 +1,14 @@
-<h1> 👉 Hi, I'm Maycon </h1>
-<h2> ☕ I am currently learning Java.</h2>
-<div>
+<h1 align='center'> 👉 Hi, I'm Maycon </h1>
+<h2 align='center'> ☕ I am currently learning Java.</h2>
+<div align='center'>
   <a href="https://github.com/MayconL27">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayconL27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconL27&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h2> 🖥️ Technologies </h2>
-  These are some of the technologies and tools that I work with:
- <div style="display: inline_block"><br>
+<h2 align='center'> 🖥️ Technologies </h2>
+  <p align='center'>These are some of the technologies and tools that I work with:</p>
+ <div style="display: inline_block" align='center'><br>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -23,15 +23,15 @@
    <img align="center" alt="CSS" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
    
 </div>
- 
-  <h2> 🧑🏽 Social</h2>
- <div>
+
+  <h2 align='center'> 🧑🏽 Social</h2>
+ <div align='center'>
   <a href="https://instagram.com/mayconl27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mayconleandro2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-leandro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-<details>
+<details align='center'>
 <h2><summary>📚 Cursos</summary></h2>
   <h3>🎓 Ciência da Computação 📆 2014 - 2018</h3>
   <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
