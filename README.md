@@ -32,11 +32,11 @@
  </div>
   
 <details align='center'>
-<h2><summary>📚 Cursos</summary></h2>
-  <h3>🎓 Ciência da Computação 📆 2014 - 2018</h3>
+<h4 align='center'>📚 Cursos</h4>
+  <h5>🎓 Ciência da Computação 📆 2014 - 2018</h5>
   <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
   <p><a href="https://certificates.digitalinnovation.one/1C661618">📗 Introdução ao framework Spring Boot - Digital Innovation One</a></p>
   <p><a href="https://certificates.digitalinnovation.one/ACBDFF19">📘 SQL SERVER - Criando suas primeiras consultas - Digital Innovation One</a></p>
-  <p><a href="https://certificates.digitalinnovation.one/520417D6">📕 SQL Introdução a criação de websites com HTML5 e CSS3 - Digital Innovation One</a></p> 
+  <p><a href="https://certificates.digitalinnovation.one/520417D6">📕 Introdução a criação de websites com HTML5 e CSS3 - Digital Innovation One</a></p> 
 </details>
   
