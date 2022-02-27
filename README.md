@@ -1,5 +1,5 @@
 <h1 align='center'> 👉 Hi, I'm Maycon 🇧🇷 </h1>
-<h2 align='center'> ☕ I am currently learning Java.</h2>
+<h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
 <div align='center'>
   <a href="https://github.com/MayconL27">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayconL27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
