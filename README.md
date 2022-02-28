@@ -1,4 +1,4 @@
-<h1 align='center'> 👉 Hi, I'm Maycon 🇧🇷 </h1>
+<h1 align='center'> 👉 Oi, eu sou Maycon 🇧🇷 </h1>
 <h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
 <div align='center'>
   <a href="https://github.com/MayconL27">
@@ -6,8 +6,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconL27&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<h2 align='center'> 🖥️ Technologies </h2>
-  <p align='center'>These are some of the technologies and tools that I work with:</p>
+<h2 align='center'> 🖥️ Tecnologias </h2>
+  <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
  <div style="display: inline_block" align='center'><br>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
