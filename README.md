@@ -34,7 +34,7 @@
   
 <details>
 <h4>📚 Cursos</h4>
-  <h5>🎓 Ciência da Computação 📆 2014 - 2018</h5>
+  <h5>🎓 Ciência da Computação 📆 2014 - 2019</h5>
   <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
   <p><a href="https://certificates.digitalinnovation.one/1C661618">📗 Introdução ao framework Spring Boot - Digital Innovation One</a></p>
   <p><a href="https://certificates.digitalinnovation.one/ACBDFF19">📘 SQL SERVER - Criando suas primeiras consultas - Digital Innovation One</a></p>
