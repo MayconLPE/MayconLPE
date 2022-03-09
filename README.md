@@ -1,10 +1,5 @@
 <h1 align='center'> 👉 Oi, eu sou Maycon 🇧🇷 </h1>
 <h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
-<div align='center'>
-  <a href="https://github.com/MayconL27">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MayconL27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconL27&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
