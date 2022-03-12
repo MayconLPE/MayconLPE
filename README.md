@@ -1,5 +1,6 @@
-<h1 align='center'> 👉 Oi, eu sou Maycon 🇧🇷 </h1>
+<h1 align="center"> Oi, Eu sou o 👉 <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
+
   
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
