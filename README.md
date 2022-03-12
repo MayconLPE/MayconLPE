@@ -5,7 +5,7 @@
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
  <div style="display: inline_block" align='center'><br>
   
-  <img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Java.png">
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/java.png">
   <img align="center" alt="mysql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/mysql.png">
   <img align="center" alt="git" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/git.png">
   <img align="center" alt="github" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png">
