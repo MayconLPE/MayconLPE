@@ -1,28 +1,34 @@
 <h1 align="center"> Oi, Eu sou o 👉 <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
  <div style="display: inline_block" align='center'><br>
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
+  
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Java.png">
+  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/mysql.png">
+  <img align="center" alt="git" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/git.png">
+  <img align="center" alt="github" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png">
+  
 </div>
 
 <div style="display: inline_block" align='center'><br>
-  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
+  <img align="center" alt="html" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/html5.png">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/css.png">
+  <img align="center" alt="js" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/js.png">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
+  
   </div>
   
   <div style="display: inline_block" align='center'><br>
-  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">  
+  
+  <img align="center" alt="vs" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/vscode.png">
+  <img align="center" alt="eclipse" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/eclipse.png"> 
+  <img align="center" alt="Windows" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Windows.png">
+  <img align="center" alt="ubuntu" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Ubuntu.png">
+  
   
   </div>
 
