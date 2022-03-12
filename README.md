@@ -24,9 +24,9 @@
   <div style="display: inline_block" align='center'><br>
   
   <img align="center" alt="vs" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/vscode.png">
-  <img align="center" alt="eclipse" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/eclipse.png"> 
+  <img align="center" alt="eclipse" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/eclipse1.png"> 
   <img align="center" alt="Windows" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Windows.png">
-  <img align="center" alt="ubuntu" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Ubuntu.png">
+  <img align="center" alt="ubuntu" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Ubuntu1.png">
   
   
   </div>
