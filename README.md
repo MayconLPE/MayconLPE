@@ -1,12 +1,12 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
- ☕ Atualmente estou aprendendo Java.
+ ☕ Atualmente estou estudando Java.
 </pre>
 
 
 
 <h2 align='center'> 🖥️ Tecnologias </h2>
-  <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
+  <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais tenho habilidades:</p>
  <div style="display: inline_block" align='center'><br>
   
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/java.png">
