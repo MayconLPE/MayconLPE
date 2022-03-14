@@ -1,10 +1,10 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
  ☕ Atualmente estou estudando Java.
+ 👨‍💻 Participando do Bootcamp Philips Fullstack Developer | You Are You
+ 
  
 </pre>
-
-<img align="center" alt="html" height="45" width="45" src="https://hermes.digitalinnovation.one/tracks/0168902d-e703-4a51-af7a-eceda69637f1.png">
 
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais tenho habilidades:</p>
