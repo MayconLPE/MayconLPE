@@ -1,9 +1,10 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
  ☕ Atualmente estou estudando Java.
+ 
 </pre>
 
-
+<img align="center" alt="html" height="45" width="45" src="https://hermes.digitalinnovation.one/tracks/0168902d-e703-4a51-af7a-eceda69637f1.png">
 
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais tenho habilidades:</p>
@@ -15,7 +16,6 @@
   <img align="center" alt="github" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png">
   
   
-
   <img align="center" alt="html" height="45" width="45" src="https://github.com/MayconL27/MayconL27/blob/main/assets/html5.png">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/css.png">
   <img align="center" alt="js" height="35" width="30" src="https://github.com/MayconL27/MayconL27/blob/main/assets/js.png">
