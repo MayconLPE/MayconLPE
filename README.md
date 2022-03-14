@@ -1,5 +1,8 @@
+<pre>
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
+</pre>
 <h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
+
 
 <h2 align='center'> 🖥️ Tecnologias </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</p>
@@ -18,6 +21,7 @@
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
   
   </div>
+  
   
   <div style="display: inline_block" align='center'><br>
   
