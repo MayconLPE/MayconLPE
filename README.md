@@ -1,7 +1,8 @@
-<pre>
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
+<pre align="center">
+ ☕ Atualmente estou aprendendo Java.
 </pre>
-<h2 align='center'> ☕ Atualmente estou aprendendo Java.</h2>
+
 
 
 <h2 align='center'> 🖥️ Tecnologias </h2>
