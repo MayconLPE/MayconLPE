@@ -1,12 +1,10 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
  ☕ Atualmente estou estudando Java.
- 👨‍💻 Participando do Bootcamp Philips Fullstack Developer | You Are You
- 
- 
+ 👨‍💻 Participando do Bootcamp Philips Fullstack Developer | You Are You 
 </pre>
 
-<h2 align='center'> 🖥️ Tecnologias </h2>
+<h2 align='center'> 🖥️ Tecnologias: </h2>
   <p align='center'>Estas são algumas das tecnologias e ferramentas com as quais tenho habilidades:</p>
  <div style="display: inline_block" align='center'><br>
   
@@ -34,7 +32,7 @@
   
   </div>
 
-  <h2 align='center'> 🧑🏽 Social</h2>
+  <h2 align='center'> 🧑🏽 Social: </h2>
  <div align='center'>
     <a href="https://www.linkedin.com/in/mayconl27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <img src="https://img.shields.io/github/followers/MayconL27?label=follow&style=social" height="22" title="Follow me" /> 
