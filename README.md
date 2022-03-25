@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
- > ☕ #OPENTOWORK
- > 👨‍💻 Participando do Bootcamp Philips Fullstack Developer | You Are You 
+ > 👨🏽‍💻 #OPENTOWORK
+ > 💻 Participando do Bootcamp Philips Fullstack Developer | You Are You 
 </pre>
 
 <h2 align='center'> 🖥️ Tecnologias: </h2>
