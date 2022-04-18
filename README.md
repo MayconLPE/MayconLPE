@@ -16,8 +16,8 @@
   
   <img align="center" alt="html" height="45" width="45" src="https://github.com/MayconL27/MayconL27/blob/main/assets/html5.png">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/css.png">
-  <img align="center" alt="js" height="35" width="30" src="https://github.com/MayconL27/MayconL27/blob/main/assets/js.png">
-  <img align="center" alt="Bootstrap" height="35" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
+  <img align="center" alt="js" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/js.png">
+  <img align="center" alt="ts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/typescript.png">
   
   </div>
   
