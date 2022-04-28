@@ -35,7 +35,6 @@
   <h2 align='center'> 💬 Contato: </h2>
  <div align='center'>
     <a href="https://www.linkedin.com/in/mayconl27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <img src="https://img.shields.io/github/followers/MayconL27?label=follow&style=social" height="22" title="Follow me" /> 
  </div>
   
 <details>
