@@ -35,7 +35,7 @@
   <h2 align='center'> 💬 Contato: </h2>
  <div align='center'>
     <a href="https://www.linkedin.com/in/mayconl27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img  href="https://www.linkedin.com/in/mayconl27/" alt="telegram" height="28" width="150" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Telegram.png">
+ <img  href="https://t.me/MayconL27/" alt="telegram" height="28" width="150" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Telegram.png">
  </div>
   
 <details>
