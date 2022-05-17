@@ -2,6 +2,7 @@
 <pre align="center">
  > 👨🏽‍💻 #OPENTOWORK
  > 💻 Participando do Bootcamp Philips Fullstack Developer | You Are You 
+ > 🎓 Ciência da Computação 📆 2014 - 2019
 </pre>
 
 <h2 align='center'> 🖥️ Tecnologias: </h2>
