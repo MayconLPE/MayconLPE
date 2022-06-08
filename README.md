@@ -1,7 +1,6 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
- > 👨🏽‍💻 #OPENTOWORK
- > 💻 Participando do Bootcamp Philips Fullstack Developer | You Are You 
+ > 👨🏽‍💻 #OPENTOWORK 
  > 🎓 Ciência da Computação 📆 2014 - 2019
 </pre>
 
@@ -40,8 +39,8 @@
  </div>
   
 <details>
-<h4>📚 Cursos</h4>
-  <h5>🎓 Ciência da Computação 📆 2014 - 2019</h5>
+<h4>📚 Cursos / Bootcamps</h4>
+  <p><a href="https://www.dio.me/certificate/5B96704A/share">💻 Bootcamp Philips Fullstack Developer | You Are You</a></p>
   <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
   <p><a href="https://www.dio.me/certificate/8650AB0D/share">📗 Sintaxe Básica em JavaScript</a></p>
   <p><a href="https://certificates.digitalinnovation.one/ACBDFF19">📘 SQL SERVER - Criando suas primeiras consultas - Digital Innovation One</a></p>
