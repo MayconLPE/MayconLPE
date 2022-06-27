@@ -32,11 +32,9 @@
   
   </div>
 
-  <h2 align='center'> 💬 Contato: </h2>
- <div align='center'>
-    <a href="https://www.linkedin.com/in/mayconl27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://t.me/MayconL27" target="_blank"><img src="https://github.com/MayconL27/MayconL27/blob/main/assets/Telegram.png" height="29" width="150" target="_blank"></a>
- </div>
+  <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconl27"> | Linktree |</a> </h2>
+  
+ 
   
 <details>
 <h4>📚 Cursos / Bootcamps</h4>
