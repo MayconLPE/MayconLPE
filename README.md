@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
  > 👨🏽‍💻 #OPENTOWORK 
- > # Bootcamp: Spring Framework Experience
+ > Bootcamp: Spring Framework Experience
  > 🎓 Ciência da Computação 📆 2014 - 2019
 </pre>
 
