@@ -2,7 +2,7 @@
 <pre align="center">
  > 👨🏽‍💻 #OPENTOWORK 
  > Bootcamp: Spring Framework Experience
- > 🎓 Ciência da Computação 📆 2014 - 2019
+ > 🎓 Ciência da Computação 📆 2014 - 2018
 </pre>
 
 <h2 align='center'> 🖥️ Tecnologias: </h2>
