@@ -8,32 +8,29 @@
 <h2 align='center'> 🖥️ Tecnologias: </h2>
   <p align='center'>Tecnologias e ferramentas com as quais tenho habilidades:</p>
  <div style="display: inline_block" align='center'><br>
-  
-  
-  
+    
   <a href="https://docs.oracle.com/javase/8/docs/"><img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/java.png"></a>
   <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/"><img align="center" alt="Spring" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/springboot.png"></a>
-  <img align="center" alt="git" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/git.png">
-  <img align="center" alt="github" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png">
-  
-  
+  <a href="https://swagger.io/solutions/api-documentation/"><img align="center" alt="api" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/api.png"></a>
+  <a href="https://www.postgresql.org/docs/"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/postgresql.png"></a>
   <img align="center" alt="html" height="45" width="45" src="https://github.com/MayconL27/MayconL27/blob/main/assets/html5.png">
   <img align="center" alt="css" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/css.png">
   <img align="center" alt="js" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/js.png">
   <img align="center" alt="ts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/typescript.png">
   
   </div>
-  
-  
+
   <div style="display: inline_block" align='center'><br>
-  
+  <img align="center" alt="sts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/angular.png">
+  <img align="center" alt="ts" height="35" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
+  <img align="center" alt="sts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/sts.png">
   <img align="center" alt="vs" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/vscode.png">
-  <img align="center" alt="intellij" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/intellij.png"> 
   <img align="center" alt="Windows" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Windows.png">
-  <img align="center" alt="ubuntu" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Ubuntu1.png">
-  
-  
+  <img align="center" alt="ubuntu" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Ubuntu1.png"> 
+    <a href="https://git-scm.com/docs/git/pt_BR"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/git.png"></a>
+  <a href="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png"></a> 
   </div>
+  
 
   <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconl27"> | Linktree |</a> </h2>
   
