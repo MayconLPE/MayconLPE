@@ -3,7 +3,6 @@
  > 🎓 Ciência da Computação | 📆 2014 - 2018
  > <a href="https://www.hackerrank.com/MayconL27">👨‍💻 HackerRank</a></h1>
  > <a href="https://www.duolingo.com/profile/MayconL27">🦉 Duolingo</a></h1>
- > <a href="web.dio.me/users/mayconleandro2008">📚 DIO.</a></h1>
 </pre>
 
 <h2 align='center'> 🖥️ Tecnologias: </h2>
