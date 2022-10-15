@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
 <pre align="center">
  > 🎓 Ciência da Computação | 📆 2014 - 2018
- > <a href="https://www.duolingo.com/profile/MayconL27">🦉 Duolingo</a></h1>
+
 </pre>
 
 <h2 align='center'> 🖥️ Tecnologias: </h2>
