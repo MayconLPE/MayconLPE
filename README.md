@@ -9,9 +9,9 @@
   <p align='center'>Tecnologias e ferramentas com as quais tenho habilidades:</p>
  <div style="display: inline_block" align='center'><br>
 
- <a href="https://learn.microsoft.com/pt-pt/dotnet/csharp/"><img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/csharp.png"></a>
+ <a href="https://learn.microsoft.com/pt-pt/dotnet/csharp/"><img align="center" alt="Java" height="50" width="50" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/csharp.png"></a>
  <img align="center" alt="net" height="45" width="45" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/Microsoft_.NET_logo.svg.png">
- <img align="center" alt="vs" height="45" width="45" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/microsoft_visual_studio_macos_bigsur_icon_189958.png">
+ <img align="center" alt="vs" height="50" width="50" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/microsoft_visual_studio_macos_bigsur_icon_189958.png">
  <a href="https://docs.aws.amazon.com/pt_br/"><img align="center" alt="sqlserver" height="40" width="40" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/sql.png"></a> -
    <a href="https://docs.oracle.com/javase/8/docs/"><img align="center" alt="Java" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/java.png"></a>
   <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/"><img align="center" alt="Spring" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/springboot.png"></a>
