@@ -32,7 +32,7 @@
   </div>
   
 
-  <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconl27"> | Linktree |</a> </h2>
+  <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconlpe"> | Linktree |</a> </h2>
   
  
   
