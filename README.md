@@ -18,7 +18,6 @@
   <a href="https://swagger.io/solutions/api-documentation/"><img align="center" alt="api" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/api.png"></a>
   <a href="https://www.postgresql.org/docs/"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/postgresql.png"></a>
   
-
  <a href="https://docs.aws.amazon.com/pt_br/"><img align="center" alt="aws" height="40" width="40" src="https://github.com/MayconLPE/MayconLPE/blob/main/assets/aws.jpeg"></a>
   <a href="https://git-scm.com/docs/git/pt_BR"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/git.png"></a>
   <a href="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png"><img align="center" alt="postgresql" height="40" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/GitHub.png"></a> 
@@ -30,17 +29,11 @@
 <img align="center" alt="ts" height="35" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
 <img align="center" alt="sts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/angular.png">
 
-
   <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconlpe"> | Linktree |</a> </h2>
   
  
   
 <details>
-<h4>📚 Cursos / Bootcamps</h4>
-  <p><a href="https://www.dio.me/certificate/5B96704A/share">💻 Bootcamp Philips Fullstack Developer | You Are You</a></p>
-  <p><a href="https://certificates.digitalinnovation.one/294FD8F7">📙 Desenvolvimento básico em Java - Digital Innovation One</a></p>
-  <p><a href="https://www.dio.me/certificate/8650AB0D/share">📗 Sintaxe Básica em JavaScript</a></p>
-  <p><a href="https://certificates.digitalinnovation.one/ACBDFF19">📘 SQL SERVER - Criando suas primeiras consultas - Digital Innovation One</a></p>
-  <p><a href="https://certificates.digitalinnovation.one/520417D6">📕 Introdução a criação de websites com HTML5 e CSS3 - Digital Innovation One</a></p>
+
 </details>
   
