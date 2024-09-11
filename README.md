@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27"><i>MAYCON</i></a></h1>
+<h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/MayconL27](https://www.linkedin.com/in/mayconlpe/)"><i>MAYCON</i></a></h1>
 <pre align="center">
  > 👨🏽‍💻 Desenvolvedor Junior
  > 🎓 Ciência da Computação | 📆 2014 - 2018
