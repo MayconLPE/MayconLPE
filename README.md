@@ -30,9 +30,7 @@
 <img align="center" alt="sts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/angular.png">
 
   <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconlpe"> | Linktree |</a> </h2>
-  
- 
-  
+    
 <details>
 https://mayconlpe.github.io/#home
 </details>
