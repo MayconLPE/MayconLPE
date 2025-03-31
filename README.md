@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, Eu sou o <a href="https://www.linkedin.com/in/mayconlpe/"><i>MAYCON</i></a></h1>
 <pre align="center">
- > 👨🏽‍💻 Desenvolvedor Junior
- > 🎓 Ciência da Computação | 📆 2014 - 2018
+ > 👨🏽‍💻 Desenvolvedor
+ > 🎓 Ciência da Computação
 
 </pre>
 
@@ -29,7 +29,7 @@
 <img align="center" alt="ts" height="35" width="40" src="https://github.com/MayconL27/MayconL27/blob/main/assets/Bootstrap.png">
 <img align="center" alt="sts" height="35" width="35" src="https://github.com/MayconL27/MayconL27/blob/main/assets/angular.png">
 
-  <h2 align='center'> 💬 Contato:  <a href="https://linktr.ee/mayconlpe"> | Linktree |</a> </h2>
+  <h2 align='center'> 💬 Contato:  <a href="http://linkedin.com/in/mayconlpe"> | Linkedin |</a> <a href="https://t.me/MayconLPE"> Telegram |</a> </h2>
     
 <details>
 https://mayconlpe.github.io/#home
